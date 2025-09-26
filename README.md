@@ -1,3 +1,1 @@
-I am a freshman SWE student at KSU.
-
-I joined Github to work with the KSU AUV Team.
+I am a Junior Electrical Engineering student at Kennesaw State University.
